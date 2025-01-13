@@ -8,6 +8,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
+| [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
 ## Stack
@@ -81,4 +82,20 @@ Code Praqcticed on Leetcode
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
