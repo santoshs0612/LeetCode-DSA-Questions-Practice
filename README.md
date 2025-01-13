@@ -36,6 +36,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Code Praqcticed on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -69,6 +71,7 @@ Code Praqcticed on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -81,6 +84,7 @@ Code Praqcticed on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
