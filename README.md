@@ -61,6 +61,7 @@ Code Praqcticed on Leetcode
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0110-balanced-binary-tree) |
@@ -74,6 +75,7 @@ Code Praqcticed on Leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -86,12 +88,14 @@ Code Praqcticed on Leetcode
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0110-balanced-binary-tree) |
