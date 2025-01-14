@@ -32,6 +32,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Code Praqcticed on Leetcode
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -84,6 +86,7 @@ Code Praqcticed on Leetcode
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -93,6 +96,7 @@ Code Praqcticed on Leetcode
 | [0102-binary-tree-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -107,6 +111,7 @@ Code Praqcticed on Leetcode
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0904-leaf-similar-trees) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Queue
@@ -125,4 +130,8 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
