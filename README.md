@@ -17,6 +17,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
@@ -57,6 +58,7 @@ Code Praqcticed on Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -72,6 +74,7 @@ Code Praqcticed on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -90,6 +93,7 @@ Code Praqcticed on Leetcode
 | [0101-symmetric-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0437-path-sum-iii) |
@@ -122,6 +126,7 @@ Code Praqcticed on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
