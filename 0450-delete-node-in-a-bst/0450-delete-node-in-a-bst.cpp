@@ -33,30 +33,63 @@ private:
     }
 public:
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if(root==NULL) return root;
-        if(root->val==key){
-            return helper(root);
-        }
-        TreeNode* temp= root;
-        while(root){
+        // if(root==NULL) return root;
+        // if(root->val==key){
+        //     return helper(root);
+        // }
+        // TreeNode* temp= root;
+        // while(root){
 
-            if(root->val > key){
+        //     if(root->val > key){
 
-                if(root->left && root->left->val == key){
-                    root->left= helper(root->left);
-                    break;
-                }else{
-                    root= root->left;
-                }
-            }else{
-                if(root->right && root->right->val == key){
-                    root->right = helper(root->right);
-                    break;
-                }else{
-                    root= root->right;
-                }
+        //         if(root->left && root->left->val == key){
+        //             root->left= helper(root->left);
+        //             break;
+        //         }else{
+        //             root= root->left;
+        //         }
+        //     }else{
+        //         if(root->right && root->right->val == key){
+        //             root->right = helper(root->right);
+        //             break;
+        //         }else{
+        //             root= root->right;
+        //         }
+        //     }
+        // }
+        // return temp;
+
+
+        if(root!=NULL){
+
+            if(key < root->val){
+
+                root->left = deleteNode(root->left,key);
+            }else if(key > root->val){
+                root->right = deleteNode(root->right,key);
             }
+            else{
+
+                if(root->right ==NULL && root->left ==NULL){
+                    return NULL;
+                }else if( root->right ==NULL || root->left ==NULL){
+
+                    return root->right!=NULL? root->right:root->left;
+                }
+                else{
+                    TreeNode* temp = root->left;
+                    while(temp->right!=NULL){
+                        temp = temp ->right;
+                    }
+                    root->val = temp->val;
+                    root->left = deleteNode(root->left,temp->val);
+                }
+
+
+
+            }
+
         }
-        return temp;
+        return root;
     }
 };
