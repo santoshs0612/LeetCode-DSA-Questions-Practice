@@ -17,6 +17,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ Code Praqcticed on Leetcode
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
@@ -89,6 +91,7 @@ Code Praqcticed on Leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -119,6 +122,7 @@ Code Praqcticed on Leetcode
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0102-binary-tree-level-order-traversal) |
