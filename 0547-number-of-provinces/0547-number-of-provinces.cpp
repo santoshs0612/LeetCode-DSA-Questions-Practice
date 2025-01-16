@@ -13,6 +13,32 @@ private:
     }
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
+        // int n = isConnected.size();
+        // int m =isConnected[0].size();
+        // vector<int> adj[n];
+        // for(int i=0;i<n;i++){
+        //     for(int j=0;j<m;j++){
+        //         if(isConnected[i][j]==1){
+        //             adj[i].push_back(j);
+        //             adj[j].push_back(i);
+        //         }
+        //     }
+        // }
+        
+        // int count=0;
+        // vector<int> visited(n,0);
+        // for(int i=0;i<n;i++){
+
+        //     if(!visited[i]){
+        //         count++;
+        //         dfsSolverRec(i,adj,visited);
+        //     }
+        // }
+        // return count;
+
+
+
+///////// BFS Approach  
         int n = isConnected.size();
         int m =isConnected[0].size();
         vector<int> adj[n];
@@ -27,13 +53,35 @@ public:
         
         int count=0;
         vector<int> visited(n,0);
-        for(int i=0;i<n;i++){
+        int i=0;
+        queue<int> q;
+        while(i<n){
+            for(i;i<n;i++){
+                if(!visited[i]){
+                    q.push(i);
+                    count++;
+                    visited[i]=1;
+                    break;
+                }
+            }
+            while(!q.empty()){
 
-            if(!visited[i]){
-                count++;
-                dfsSolverRec(i,adj,visited);
+                int node = q.front();
+                q.pop();
+
+                for(auto nb:adj[node]){
+
+                    if(!visited[nb]){
+                        visited[nb]=1;
+                        q.push(nb);
+                    }
+                }
             }
         }
+
+
         return count;
+
+
     }
 };
