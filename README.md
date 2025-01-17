@@ -12,6 +12,7 @@ Code Praqcticed on Leetcode
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -51,6 +52,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Code Praqcticed on Leetcode
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
