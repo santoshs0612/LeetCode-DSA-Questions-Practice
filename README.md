@@ -59,6 +59,7 @@ Code Praqcticed on Leetcode
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -71,6 +72,7 @@ Code Praqcticed on Leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
+| [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
