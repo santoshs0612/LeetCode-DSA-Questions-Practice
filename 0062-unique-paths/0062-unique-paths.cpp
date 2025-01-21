@@ -30,9 +30,34 @@ public:
 
         //memorization 
 
-        vector<vector<int>> dp(m+1, vector<int>(n+1,-1));
+        // vector<vector<int>> dp(m+1, vector<int>(n+1,-1));
 
-        return solverMem(m-1,n-1,dp);
+        // return solverMem(m-1,n-1,dp);
+
+
+        // top down 
+
+        vector<vector<int>> dp(m+1,vector<int>(n+1,0));
+
+        for(int i=0;i<m;i++){
+            dp[i][0]=1;
+        }
+        for(int i=0;i<n;i++){
+            dp[0][i]=1;
+        }
+
+        for(int x = 1;x<m;x++){
+            for(int y = 1;y<n;y++){
+                
+                
+                dp[x][y]=dp[x][y-1] + dp[x-1][y];
+                
+                
+
+            }
+        }
+
+        return dp[m-1][n-1];
         
     }
 };
