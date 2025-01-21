@@ -39,8 +39,25 @@ public:
 
         // memorizations 
 
-        vector<int> dp(n+1,-1);
+        // vector<int> dp(n+1,-1);
 
-        return solverMem(nums,n-1,dp);
+        // return solverMem(nums,n-1,dp);
+
+        
+        vector<int> dp(n,0);
+        dp[0] = nums[0];
+        for(int ind = 1;ind<n;ind++){
+            int take =nums[ind];
+            if(ind>=2){
+                take =  nums[ind] + dp[ind-2];
+            }
+            
+
+            int notTake = 0 + dp[ind-1];
+        
+            dp[ind] = max(take, notTake);
+        }
+
+        return dp[n-1];
     }
 };
