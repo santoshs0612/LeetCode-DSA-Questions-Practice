@@ -18,6 +18,7 @@ Code Praqcticed on Leetcode
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -81,6 +82,7 @@ Code Praqcticed on Leetcode
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
+| [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+| [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2636-maximum-subsequence-score) |
@@ -220,11 +223,13 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2636-maximum-subsequence-score](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2636-maximum-subsequence-score) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,4 +301,5 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
