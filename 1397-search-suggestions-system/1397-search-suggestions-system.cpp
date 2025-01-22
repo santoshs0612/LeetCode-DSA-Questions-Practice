@@ -67,7 +67,9 @@ class Trie{
            return ans;
         }
         void dfs(Node* node, string &current, vector<string> &ans){
-
+            if(ans.size()>=3){
+                return;
+            }
             if(node->isEnd()==true){
                 ans.push_back(current);
             }
