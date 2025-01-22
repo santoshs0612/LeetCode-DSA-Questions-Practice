@@ -55,6 +55,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
@@ -72,6 +73,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
