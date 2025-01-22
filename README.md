@@ -229,6 +229,7 @@ Code Praqcticed on Leetcode
 | [0136-single-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Divide and Conquer
 |  |
 | ------- |
