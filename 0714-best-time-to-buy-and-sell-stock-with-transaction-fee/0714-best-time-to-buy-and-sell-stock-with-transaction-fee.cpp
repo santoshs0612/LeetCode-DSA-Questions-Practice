@@ -35,11 +35,30 @@ public:
 
         // return solverRec(0,1,prices,fee);
 
+        // int n = prices.size();
+
+        // vector<vector<int>> dp(n+1, vector<int>(2,-1));
+
+        // return solverMem(0,1,prices,fee,dp);
         int n = prices.size();
 
-        vector<vector<int>> dp(n+1, vector<int>(2,-1));
+        vector<vector<int>> dp(n+1, vector<int>(2,0));
 
-        return solverMem(0,1,prices,fee,dp);
-        
+
+        for(int ind = n-1;ind>=0; ind--){
+
+            for(int buy = 0;buy<2;buy++){
+                int profit = 0;
+                if(buy==1){
+                    profit  = max((-prices[ind]+dp[ind+1][!buy]), dp[ind+1][buy]);
+                }if(buy==0){
+                    profit = max((prices[ind]-fee+dp[ind+1][!buy]), dp[ind+1][buy]);
+                }
+
+                dp[ind][buy]=profit;
+            }
+        }
+
+        return dp[0][1];
     }
 };
