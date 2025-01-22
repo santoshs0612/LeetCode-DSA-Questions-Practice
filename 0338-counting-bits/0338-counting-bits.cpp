@@ -16,12 +16,23 @@ private:
 public:
     vector<int> countBits(int n) {
 
-        vector<int> ans ;
+        // vector<int> ans ;
         
+        // for(int i=0;i<=n;i++){
+        //     ans.push_back(solver(i));
+        // }
+        // return ans;
+        vector<int> ans(n+1,0);
         for(int i=0;i<=n;i++){
-            ans.push_back(solver(i));
+
+            if(i%2==1){
+                ans[i] = ans[i/2]+1;
+            }else{
+                ans[i] = ans[i/2];
+            }
         }
         return ans;
+
         
     }
 };
