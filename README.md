@@ -9,6 +9,7 @@ Code Praqcticed on Leetcode
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0136-single-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0216-combination-sum-iii) |
@@ -225,6 +226,7 @@ Code Praqcticed on Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
 ## Divide and Conquer
