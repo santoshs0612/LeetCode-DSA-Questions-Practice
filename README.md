@@ -48,6 +48,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -76,6 +77,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
@@ -262,6 +264,7 @@ Code Praqcticed on Leetcode
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -289,4 +292,8 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
