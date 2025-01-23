@@ -15,6 +15,7 @@ Code Praqcticed on Leetcode
 | [0216-combination-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -63,6 +64,7 @@ Code Praqcticed on Leetcode
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1236-n-th-tribonacci-number) |
@@ -87,6 +89,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2636-maximum-subsequence-score](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2636-maximum-subsequence-score) |
 ## Linked List
@@ -222,6 +225,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2636-maximum-subsequence-score](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2636-maximum-subsequence-score) |
