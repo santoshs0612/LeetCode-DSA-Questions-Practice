@@ -38,6 +38,7 @@ Code Praqcticed on Leetcode
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -48,6 +49,7 @@ Code Praqcticed on Leetcode
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -280,6 +282,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0937-online-stock-span](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -312,4 +315,8 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
