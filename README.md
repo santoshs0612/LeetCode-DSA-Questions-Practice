@@ -6,6 +6,7 @@ Code Praqcticed on Leetcode
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -107,6 +108,7 @@ Code Praqcticed on Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Tree
