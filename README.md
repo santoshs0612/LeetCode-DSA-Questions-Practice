@@ -22,6 +22,7 @@ Code Praqcticed on Leetcode
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
@@ -81,6 +82,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
@@ -178,6 +180,7 @@ Code Praqcticed on Leetcode
 | [0871-keys-and-rooms](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
