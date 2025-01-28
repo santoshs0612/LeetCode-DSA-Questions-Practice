@@ -8,6 +8,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -250,6 +251,7 @@ Code Praqcticed on Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 ## Bit Manipulation
