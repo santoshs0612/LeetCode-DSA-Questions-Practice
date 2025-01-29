@@ -62,6 +62,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
@@ -115,6 +116,7 @@ Code Praqcticed on Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
@@ -125,6 +127,7 @@ Code Praqcticed on Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
