@@ -119,6 +119,7 @@ Code Praqcticed on Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
@@ -135,6 +136,7 @@ Code Praqcticed on Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
