@@ -110,6 +110,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -336,4 +337,8 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
