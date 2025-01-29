@@ -41,6 +41,7 @@ Code Praqcticed on Leetcode
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
@@ -121,6 +122,7 @@ Code Praqcticed on Leetcode
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -132,6 +134,7 @@ Code Praqcticed on Leetcode
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -364,4 +367,5 @@ Code Praqcticed on Leetcode
 | [0021-merge-two-sorted-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
