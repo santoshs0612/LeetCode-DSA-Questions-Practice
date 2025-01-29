@@ -64,6 +64,7 @@ Code Praqcticed on Leetcode
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
@@ -120,6 +121,7 @@ Code Praqcticed on Leetcode
 | [0025-reverse-nodes-in-k-group](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
@@ -133,6 +135,7 @@ Code Praqcticed on Leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
