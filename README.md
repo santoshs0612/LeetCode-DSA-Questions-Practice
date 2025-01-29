@@ -111,6 +111,7 @@ Code Praqcticed on Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -324,6 +325,7 @@ Code Praqcticed on Leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0062-unique-paths) |
 | [1236-n-th-tribonacci-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -350,6 +352,7 @@ Code Praqcticed on Leetcode
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
