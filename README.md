@@ -19,6 +19,7 @@ Code Praqcticed on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -262,6 +263,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0502-ipo) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
