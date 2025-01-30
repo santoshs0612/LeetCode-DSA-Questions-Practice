@@ -146,6 +146,7 @@ Code Praqcticed on Leetcode
 | [0142-linked-list-cycle-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -263,6 +264,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0502-ipo) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
@@ -278,6 +280,7 @@ Code Praqcticed on Leetcode
 | ------- |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0502-ipo) |
@@ -332,6 +335,7 @@ Code Praqcticed on Leetcode
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
@@ -369,6 +373,7 @@ Code Praqcticed on Leetcode
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0937-online-stock-span) |
 ## Counting
 |  |
