@@ -1,5 +1,5 @@
 # LeetCode-DSA-s-Questiosn-Practice
-Code Praqcticed on Leetcode 
+Code Practiced on Leetcode 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
