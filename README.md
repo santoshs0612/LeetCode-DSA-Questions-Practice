@@ -31,6 +31,7 @@ Code Practiced on Leetcode
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
+| [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -101,6 +102,7 @@ Code Practiced on Leetcode
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0200-number-of-islands) |
+| [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
@@ -235,6 +237,7 @@ Code Practiced on Leetcode
 | [0662-maximum-width-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
