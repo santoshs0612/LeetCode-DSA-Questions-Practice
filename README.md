@@ -75,6 +75,7 @@ Code Practiced on Leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
@@ -113,6 +114,7 @@ Code Practiced on Leetcode
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
+| [0433-minimum-genetic-mutation](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 ## Greedy
@@ -233,6 +235,7 @@ Code Practiced on Leetcode
 | [0207-course-schedule](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0871-keys-and-rooms) |
