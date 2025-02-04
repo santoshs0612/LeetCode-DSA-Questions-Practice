@@ -35,6 +35,7 @@ Code Practiced on Leetcode
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -108,6 +109,7 @@ Code Practiced on Leetcode
 | [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
@@ -225,6 +227,7 @@ Code Practiced on Leetcode
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -252,6 +255,7 @@ Code Practiced on Leetcode
 | [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
@@ -298,6 +302,7 @@ Code Practiced on Leetcode
 | [0502-ipo](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0621-task-scheduler) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2636-maximum-subsequence-score) |
@@ -325,6 +330,7 @@ Code Practiced on Leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -359,6 +365,7 @@ Code Practiced on Leetcode
 | [0200-number-of-islands](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0547-number-of-provinces) |
+| [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
