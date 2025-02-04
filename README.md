@@ -99,6 +99,7 @@ Code Practiced on Leetcode
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -357,6 +358,7 @@ Code Practiced on Leetcode
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0871-keys-and-rooms) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
@@ -370,6 +372,7 @@ Code Practiced on Leetcode
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Quickselect
 |  |
 | ------- |
