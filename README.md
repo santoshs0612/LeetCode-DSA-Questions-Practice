@@ -33,6 +33,7 @@ Code Practiced on Leetcode
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2227-sum-of-subarray-ranges) |
@@ -106,6 +107,7 @@ Code Practiced on Leetcode
 | [0200-number-of-islands](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
@@ -247,6 +249,7 @@ Code Practiced on Leetcode
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
