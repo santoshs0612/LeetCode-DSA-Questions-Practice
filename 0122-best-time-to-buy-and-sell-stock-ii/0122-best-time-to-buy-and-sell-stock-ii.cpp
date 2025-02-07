@@ -36,10 +36,31 @@ private:
 public:
     int maxProfit(vector<int>& prices) {
 
-        int profit =0;
+        // int profit =0;
         // return solverRec(1,0,2,prices); 
-        vector<vector<int>> dp(prices.size()+1,vector<int>(3,-1));
+        // vector<vector<int>> dp(prices.size()+1,vector<int>(3,-1));
 
-        return solverMem(1,0,2,prices,dp);
+        // return solverMem(1,0,2,prices,dp);
+        vector<vector<int>> dp(prices.size()+1,vector<int>(3,0));
+
+        int n = prices.size();
+        for(int i=0;i<3;i++){
+            dp[n][i]=0;
+        }
+        for(int ind =n-1;ind>=0;ind--){
+
+            for(int buy =1;buy>=0;buy--){
+
+                if(buy==1){
+                    dp[ind][buy]=max(dp[ind+1][0]-prices[ind], dp[ind+1][1]);
+                }
+                else{
+                    dp[ind][buy]=max(dp[ind+1][1]+prices[ind], dp[ind+1][0]);
+                    
+                }
+            }
+        }
+
+        return dp[0][1];
     }
 };
