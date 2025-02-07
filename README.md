@@ -14,6 +14,7 @@ Code Practiced on Leetcode
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@ Code Practiced on Leetcode
 | [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
@@ -131,6 +133,7 @@ Code Practiced on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
