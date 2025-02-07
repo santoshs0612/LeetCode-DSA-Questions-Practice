@@ -9,6 +9,7 @@ Code Practiced on Leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -160,6 +161,7 @@ Code Practiced on Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0141-linked-list-cycle) |
