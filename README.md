@@ -9,6 +9,7 @@ Code Practiced on Leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
@@ -92,6 +93,7 @@ Code Practiced on Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
@@ -133,6 +135,7 @@ Code Practiced on Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
