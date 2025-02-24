@@ -61,22 +61,41 @@ public:
         // return dp[0][0];
 
 
-        vector<int> dp(n,1);
+        // vector<int> dp(n,1);
 
-        for(int ind=0;ind<n;ind++){
-            for(int prevInd =0;prevInd<=ind-1;prevInd++){
+        // for(int ind=0;ind<n;ind++){
+        //     for(int prevInd =0;prevInd<=ind-1;prevInd++){
 
-                if(nums[prevInd]<nums[ind]){
-                    dp[ind] = max(dp[ind], 1+dp[prevInd]);
-                }
+        //         if(nums[prevInd]<nums[ind]){
+        //             dp[ind] = max(dp[ind], 1+dp[prevInd]);
+        //         }
+        //     }
+        // }
+
+        // int maxLen = 0;
+
+        // for(int i=0;i<n;i++){
+
+        //     maxLen = max(maxLen, dp[i]);
+        // }
+
+        // return maxLen;
+
+
+        // binary search method  
+        int maxLen =1;
+        vector<int> temp;
+        temp.push_back(nums[0]);
+        for(int i=1;i<n;i++){
+
+            if(nums[i]>temp.back()){
+                maxLen++;
+                temp.push_back(nums[i]);
             }
-        }
-
-        int maxLen = 0;
-
-        for(int i=0;i<n;i++){
-
-            maxLen = max(maxLen, dp[i]);
+            else{
+                int ind = lower_bound(temp.begin(), temp.end(), nums[i])- temp.begin();
+                temp[ind] = nums[i]; 
+            }
         }
 
         return maxLen;
