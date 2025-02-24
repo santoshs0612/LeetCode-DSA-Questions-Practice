@@ -38,9 +38,27 @@ public:
         int n = nums.size();
         // return solverRec(0,-1,nums);
 
-        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+        // vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
 
-        return solverMem(0,-1,nums, dp);
+        // return solverMem(0,-1,nums, dp);
+
+        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+
+
+        for(int ind=n-1;ind>=0;ind--){
+
+            for(int prev = ind-1;prev>=-1;prev--){
+
+                int notTake = dp[ind+1][prev+1];
+                int take = 0;
+                
+                if(prev ==-1 || nums[ind]>nums[prev]){
+                    take = dp[ind+1][ind+1]+1;
+                }
+                dp[ind][prev+1]=max(notTake, take);
+            }
+        }
+        return dp[0][0];
         
     }
 };
