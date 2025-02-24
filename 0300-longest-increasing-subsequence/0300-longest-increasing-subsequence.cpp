@@ -1,0 +1,46 @@
+class Solution {
+private:
+    int solverRec(int ind, int prev , vector<int> &arr){
+
+        if(ind==arr.size()){
+            return 0;
+        }
+
+        int notTake = solverRec(ind+1,prev,arr);
+        int take = 0;
+        
+        if(prev ==-1 || arr[ind]>arr[prev]){
+            take = solverRec(ind+1,ind,arr)+1;
+        }
+        return max(notTake, take);
+    }
+    int solverMem(int ind, int prev , vector<int> &arr,vector<vector<int>> &dp){
+
+        if(ind==arr.size()){
+            return 0;
+        }
+
+        if(dp[ind][prev+1]!=-1){
+            return dp[ind][prev+1];
+        }
+
+        int notTake = solverMem(ind+1,prev,arr,dp);
+        int take = 0;
+        
+        if(prev ==-1 || arr[ind]>arr[prev]){
+            take = solverMem(ind+1,ind,arr,dp)+1;
+        }
+        return dp[ind][prev+1]=max(notTake, take);
+    }
+public:
+    int lengthOfLIS(vector<int>& nums) {
+
+        int n = nums.size();
+        // return solverRec(0,-1,nums);
+
+        vector<vector<int>> dp(n+1,vector<int>(n+1,-1));
+
+        return solverMem(0,-1,nums, dp);
+        
+    }
+};
