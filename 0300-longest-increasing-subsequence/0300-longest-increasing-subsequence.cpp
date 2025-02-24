@@ -42,23 +42,44 @@ public:
 
         // return solverMem(0,-1,nums, dp);
 
-        vector<vector<int>> dp(n+1,vector<int>(n+1,0));
+        // vector<vector<int>> dp(n+1,vector<int>(n+1,0));
 
 
-        for(int ind=n-1;ind>=0;ind--){
+        // for(int ind=n-1;ind>=0;ind--){
 
-            for(int prev = ind-1;prev>=-1;prev--){
+        //     for(int prev = ind-1;prev>=-1;prev--){
 
-                int notTake = dp[ind+1][prev+1];
-                int take = 0;
+        //         int notTake = dp[ind+1][prev+1];
+        //         int take = 0;
                 
-                if(prev ==-1 || nums[ind]>nums[prev]){
-                    take = dp[ind+1][ind+1]+1;
+        //         if(prev ==-1 || nums[ind]>nums[prev]){
+        //             take = dp[ind+1][ind+1]+1;
+        //         }
+        //         dp[ind][prev+1]=max(notTake, take);
+        //     }
+        // }
+        // return dp[0][0];
+
+
+        vector<int> dp(n,1);
+
+        for(int ind=0;ind<n;ind++){
+            for(int prevInd =0;prevInd<=ind-1;prevInd++){
+
+                if(nums[prevInd]<nums[ind]){
+                    dp[ind] = max(dp[ind], 1+dp[prevInd]);
                 }
-                dp[ind][prev+1]=max(notTake, take);
             }
         }
-        return dp[0][0];
+
+        int maxLen = 0;
+
+        for(int i=0;i<n;i++){
+
+            maxLen = max(maxLen, dp[i]);
+        }
+
+        return maxLen;
         
     }
 };
