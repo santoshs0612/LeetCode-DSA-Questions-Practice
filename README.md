@@ -26,6 +26,7 @@ Code Practiced on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0312-burst-balloons) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
@@ -104,6 +105,7 @@ Code Practiced on Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -347,6 +349,7 @@ Code Practiced on Leetcode
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
