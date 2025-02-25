@@ -36,6 +36,7 @@ Code Practiced on Leetcode
 | [0496-next-greater-element-i](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -113,6 +114,7 @@ Code Practiced on Leetcode
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
@@ -470,4 +472,12 @@ Code Practiced on Leetcode
 | ------- |
 | [0207-course-schedule](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0210-course-schedule-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
