@@ -42,6 +42,7 @@ Code Practiced on Leetcode
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
+| [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
@@ -93,6 +94,7 @@ Code Practiced on Leetcode
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Dynamic Programming
 |  |
@@ -113,6 +115,7 @@ Code Practiced on Leetcode
 | [0435-non-overlapping-intervals](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [1236-n-th-tribonacci-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -138,6 +141,7 @@ Code Practiced on Leetcode
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0433-minimum-genetic-mutation) |
+| [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 ## Greedy
@@ -189,6 +193,7 @@ Code Practiced on Leetcode
 | [0234-palindrome-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Tree
@@ -345,6 +350,7 @@ Code Practiced on Leetcode
 | [0621-task-scheduler](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [2636-maximum-subsequence-score](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2636-maximum-subsequence-score) |
 ## Binary Search
