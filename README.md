@@ -40,6 +40,7 @@ Code Practiced on Leetcode
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0876-hand-of-straights) |
 | [0945-snakes-and-ladders](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
@@ -361,6 +362,7 @@ Code Practiced on Leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0792-binary-search) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
