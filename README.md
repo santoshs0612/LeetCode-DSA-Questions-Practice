@@ -84,6 +84,7 @@ Code Practiced on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0133-clone-graph) |
@@ -142,6 +143,7 @@ Code Practiced on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0399-evaluate-division) |
@@ -324,6 +326,7 @@ Code Practiced on Leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
