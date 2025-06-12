@@ -47,6 +47,7 @@ Code Practiced on Leetcode
 | [1036-rotting-oranges](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1036-rotting-oranges) |
 | [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1370-count-number-of-nice-subarrays](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1397-search-suggestions-system](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1397-search-suggestions-system) |
 | [1753-path-with-minimum-effort](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1753-path-with-minimum-effort) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -98,6 +99,7 @@ Code Practiced on Leetcode
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1129-longest-string-chain) |
+| [1370-count-number-of-nice-subarrays](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 | [2413-smallest-number-in-infinite-set](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/2413-smallest-number-in-infinite-set) |
 ## Dynamic Programming
 |  |
@@ -323,6 +325,7 @@ Code Practiced on Leetcode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0239-sliding-window-maximum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -440,6 +443,7 @@ Code Practiced on Leetcode
 | [0189-rotate-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0368-largest-divisible-subset) |
 | [1236-n-th-tribonacci-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1236-n-th-tribonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 ## Memoization
 |  |
 | ------- |
@@ -484,4 +488,8 @@ Code Practiced on Leetcode
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
