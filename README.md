@@ -105,6 +105,7 @@ Code Practiced on Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0062-unique-paths) |
@@ -142,6 +143,7 @@ Code Practiced on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0127-word-ladder) |
@@ -437,6 +439,7 @@ Code Practiced on Leetcode
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
