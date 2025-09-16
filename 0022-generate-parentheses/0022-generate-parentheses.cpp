@@ -1,36 +1,31 @@
 class Solution {
-private:
-    void solverRec(string &str, int opening, int closing, vector<string> &ans,int n){
+public:
 
-        //base Case 
-        if(opening==n && closing ==n){
-            ans.push_back(str);
+    void solverRec(int open, int close, string temp, vector<string> &ans){
+
+        if(open ==0 && close==0){
+            ans.push_back(temp);
             return;
         }
 
-        if(opening<n){
-
-            str+='(';
-            solverRec(str,opening+1,closing,ans,n);
-            str.pop_back();
+        if(open> 0){
+            solverRec(open-1,close,temp+'(',ans);
         }
 
-        if(closing<opening){
-            str+=')';
-            solverRec(str,opening,closing+1,ans,n);
-            str.pop_back();
+        if(close>open){
+            solverRec(open,close-1,temp+')',ans);
         }
+        
     }
-public:
     vector<string> generateParenthesis(int n) {
 
 
         vector<string> ans;
-        int opening =0,closing =0;
-        string str ="";
-        solverRec(str,opening,closing,ans,n);
+        string temp ="";
+        solverRec(n,n,temp,ans);
 
         return ans;
+        
         
     }
 };
