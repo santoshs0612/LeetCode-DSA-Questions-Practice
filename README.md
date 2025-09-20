@@ -12,6 +12,7 @@ Code Practiced on Leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0085-maximal-rectangle) |
@@ -378,6 +379,7 @@ Code Practiced on Leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0338-counting-bits) |
@@ -440,6 +442,7 @@ Code Practiced on Leetcode
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
