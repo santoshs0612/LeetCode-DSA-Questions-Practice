@@ -21,6 +21,7 @@ Code Practiced on Leetcode
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
@@ -115,6 +116,7 @@ Code Practiced on Leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/santoshs0612/LeetCode-DSA-Questions-Practice/tree/master/0312-burst-balloons) |
